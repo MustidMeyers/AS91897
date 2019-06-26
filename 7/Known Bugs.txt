@@ -1,0 +1,2 @@
+1. At the end of the quiz it calls the choose_catagory function again causing a loop you can't get out of.
+	This has been fixed on 19/06/2019. There was a problem with the try and except method which I have fixed.
